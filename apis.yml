@@ -33,13 +33,14 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Sports
+  - Sports Betting
+  - Odds
 apis:
   - name: Oddsmagnet
     description: "Odds history from multiple UK bookmakers"
     humanURL: https://data.oddsmagnet.com
-    baseURL: https://data.oddsmagnet.com
     tags:
       - Sports And Fitness
     properties:
@@ -55,3 +56,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Sports And Fitness
