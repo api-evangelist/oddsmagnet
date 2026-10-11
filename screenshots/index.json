@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "oddsmagnet",
+    "captured_at": "2026-10-11T191153",
+    "source_url": "https://data.oddsmagnet.com",
+    "source_type": "Website",
+    "file": "oddsmagnet-2026-10-11T191153.png",
+    "bytes": 181658,
+    "capture": "playwright-local"
+  }
+]
