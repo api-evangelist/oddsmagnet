@@ -41,7 +41,8 @@ apis:
   - name: Oddsmagnet
     description: "Odds history from multiple UK bookmakers"
     humanURL: https://data.oddsmagnet.com
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
